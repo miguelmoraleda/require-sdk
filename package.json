@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "load-script": "*",
-    "pubsub": "0.0.5"
+    "pubsub": "git@github.com:azer/pubsub.git"
   },
   "devDependencies": {
     "fox": "*"
